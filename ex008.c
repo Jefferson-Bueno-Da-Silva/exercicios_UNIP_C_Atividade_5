@@ -7,7 +7,7 @@ A listagem pode ser de todos os produtos ou somente de um ao se digitar o códig
 
 #include <stdio.h>
 #include <stdlib.h>
-#define MAX 2
+#define MAX 30
 
 //VARIAVEIS
 int codigo[MAX], qtd[MAX];
