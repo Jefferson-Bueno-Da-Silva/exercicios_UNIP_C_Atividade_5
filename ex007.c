@@ -13,7 +13,7 @@ vetores). Ao final, o programa deverá imprimir quantas mercadorias proporcionam
 #include <stdio.h>
 #include <stdlib.h>
 //CONSTANTE
-#define MAX 3
+#define MAX 100
 
 
 int main()
